@@ -1,5 +1,4 @@
-# C.R.U.D-1.0
-All the code and Documentation of my C.R.U.D app solution
+# C.R.U.D 1.0
 Project Documentation: C.R.U.D 1.0
 
 Aim:
