@@ -31,7 +31,7 @@ Steps Taken:
 
 Database Connection:
 
-Utilized the PyODBC library to establish a connection to a SQL Server database./
+Utilized the PyODBC library to establish a connection to a SQL Server database.n
 
 GUI Development:
 
