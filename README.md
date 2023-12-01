@@ -1,7 +1,7 @@
 # C.R.U.D 1.0
 Project Documentation: C.R.U.D 1.0
 
-Aim:
+Objective:
 
 The aim of the C.R.U.D 1.0 project is to provide a simple yet functional application for performing basic C.R.U.D (Create, Read, Update, Delete) operations on a customer database. The application allows users to interact with a SQL Server database, perform data entry, update existing records, delete records, and execute custom SQL queries.
 
